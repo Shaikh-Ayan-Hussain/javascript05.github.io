@@ -1,6 +1,6 @@
 function Div(){
-    const num1 = prompt("Enter Number For Division");
-    const num2 = prompt("Enter Number For Division");
+    const num1 = prompt("Enter Num1 For Division");
+    const num2 = prompt("Enter Num2 For Division");
     const  result = num1/num2;
     // console.log(result);
     if(result == Infinity){
